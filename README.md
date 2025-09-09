@@ -55,7 +55,7 @@
 - 🔐 Implemented a secure and seamless user authentication system using NextAuth.js.
 - 🚀 Developed responsive frontend components with React and Next.js, improving UI load times by 40%.
 
-### 📊 **Project Manager**
+### 📊 **Planora**
 > A comprehensive company website for project management, streamlining task allocation for over 50 team members.
 
 **Tech Stack**: Next.js, React, Redux, Node.js, Express.js, PostgreSQL, TypeScript, RESTful APIs
