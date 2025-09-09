@@ -1,17 +1,17 @@
 # Hi there, I'm Deepanshu Yadav! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI%2FML+Student;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=FullStack+Web+Developer;Learning+GenAI;Learning+Agentic+AI;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
 - 🎓 **B.Tech in Computer Science (Artificial Intelligence)**, Expected 2026
-- 💻 **Full-Stack Developer** with expertise in **MERN Stack**, RESTful APIs, and server-side rendering
+- 💻 **Full-Stack Developer** with expertise in **MERN Stack** , RESTful APIs, and server-side rendering
 - 🌱 Currently exploring **AWS Cloud Services**, **Docker**, and **Microservices**
 - 🎯 Seeking **Software Development Internships** to build innovative fintech solutions and browser extensions
 - 📍 Based in **Lucknow, India**
-- 📧 Contact: **dy02082003@gmail.com**
+- 📧 Contact: **dy02082003@gmail.com** 
 
 ## 🛠️ Tech Stack
 
@@ -46,23 +46,23 @@
 
 ## 🌟 Featured Projects
 
-### 🗃️ [Secure File Manager](https://github.com/deepanshu-yadav/dropbox-clone)
-> Full-stack file management platform with secure authentication
+### 💬 **OtterChat**
+> A dynamic full-stack chat platform enabling real-time messaging for multiple users.
 
-**Tech Stack**: Next.js, Node.js, PostgreSQL, TypeScript, JWT
-- 🔐 Implemented JWT-based secure user authentication and authorization
-- 📁 Built file upload/download system with metadata management
-- 🚀 Optimized with server-side rendering for fast performance
-- 🎨 Designed responsive UI for seamless user experience
+**Tech Stack**: React, Next.js, PostgreSQL, Prisma, Node.js, Socket.io, NextAuth.js 
+- 🔌 Integrated Socket.io for features like user presence tracking and typing.
+- 🗄️ Designed an efficient database schema with PostgreSQL and Prisma for low latency and concurrent messages.
+- 🔐 Implemented a secure and seamless user authentication system using NextAuth.js.
+- 🚀 Developed responsive frontend components with React and Next.js, improving UI load times by 40%.
 
-### 🎥 [Video Sharing Platform](https://github.com/deepanshu-yadav/video-sharing-platform)
-> Scalable video platform with real-time processing
+### 📊 **Project Manager**
+> A comprehensive company website for project management, streamlining task allocation for over 50 team members.
 
-**Tech Stack**: Node.js, MongoDB, NextAuth, ImageKit, TypeScript
-- 🎬 Developed video upload and processing system with optimized storage
-- 👥 Integrated OAuth-based social login for user authentication
-- 📊 Added real-time analytics for engagement tracking
-- ⚡ Ensured efficient media delivery with ImageKit
+**Tech Stack**: Next.js, React, Redux, Node.js, Express.js, PostgreSQL, TypeScript, RESTful APIs
+- 📈 Implemented a scrum-based dashboard using React and TypeScript.
+- ⚡ Used Redux for efficient caching to support real-time updates for project tasks
+- 🎨 Created intuitive frontend components that reduced task navigation time by 30%.
+- 💨 Implemented server-side rendering (SSR) with Next.js for enhanced performance.
 
 ### 🤖 [Machine Learning Projects](https://github.com/deepanshu-yadav/machine-learning-projects)
 > Collection of AI/ML implementations and experiments
@@ -74,9 +74,9 @@
 
 ## 🏆 Technical Achievements
 
-- 🛠️ Built scalable **RESTful APIs** using Node.js and Express.js, handling high-volume requests with optimized MongoDB queries
-- 🔒 Implemented **JWT and OAuth** authentication systems for secure user management in React applications
-- 🎨 Developed responsive **React components** with Next.js SSR/SSG optimization for enhanced user experience
+- 🛠️ Built scalable **RESTful APIs** using Node.js and Express.js, handling high-volume requests with optimized MongoDB queries.
+- 🔒 Implemented **JWT and OAuth** authentication systems for secure user management in React applications.
+- 🎨 Developed responsive **React components** with Next.js SSR/SSG optimization for enhanced user experience.
 
 ## 💡 Entrepreneurial Experience
 
@@ -85,8 +85,15 @@
 - ⚡ Managed complete development lifecycle in a fast-paced, self-motivated environment
 - 📚 Proactively learned new technologies to meet project requirements
 
+## 🎯 Current Focus
 
-
+```javascript
+const deepanshu = {
+  currentlyLearning: ["AWS Cloud Services", "Docker", "Microservices"],
+  lookingFor: "Software Development Internship Opportunities",
+  askMeAbout: ["Full Stack Development", "MERN Stack", "AI/ML"],
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
 
 
 ## 🎯 Current Focus
