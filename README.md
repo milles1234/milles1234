@@ -1,107 +1,118 @@
-# Hi there, I'm Deepanshu Yadav! 👋
+# Deepanshu Yadav
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=FullStack+Web+Developer;Learning+GenAI;Learning+Agentic+AI;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Cloud+%26+DevOps+Enthusiast;AI/ML+Integration+Specialist" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science (Artificial Intelligence)**, Expected 2026
-- 💻 **Full-Stack Developer** with expertise in **MERN Stack** , RESTful APIs, and server-side rendering
-- 🌱 Currently exploring **AWS Cloud Services**, **Docker**, and **Microservices**
-- 🎯 Seeking **Software Development Internships** to build innovative fintech solutions and browser extensions
-- 📍 Based in **Lucknow, India**
-- 📧 Contact: **dy02082003@gmail.com** 
+I'm a **Computer Science student specializing in Artificial Intelligence** (Expected 2026, CGPA: 8.5/10) with a strong focus on building production-ready full-stack applications. I architect scalable solutions using modern web technologies and cloud infrastructure.
 
-## 🛠️ Tech Stack
+- 🔭 Currently building a **Multi-LLM SaaS Platform** with Python, FastAPI, and Next.js
+- 🌱 Deepening expertise in **AWS Cloud Services**, **Docker containerization**, and **Microservices architecture**
+- 💼 Seeking **Software Development Internship** opportunities to solve complex engineering challenges
+- 📍 Lucknow, India
+- 📧 dy02082003@gmail.com | [LinkedIn](https://linkedin.com/in/deepanshuyadav100x) | [GitHub](https://github.com/milles1234)
 
-### **Languages**
+---
+
+## 🛠️ Technical Expertise
+
+**Languages & Core:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### **Frontend**
+**Frontend Development:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Backend**
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+**Backend & APIs:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-### **Database**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### **Cloud & Tools**
+**DevOps & Cloud:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 **Multi-LLM SaaS Platform** *(In Progress)*
+> Full-stack AI-powered platform orchestrating multiple Large Language Models with enterprise-grade architecture
+
+**Tech Stack:** Python, FastAPI, TypeScript, React, Next.js, PostgreSQL, Docker
+
+- 🏗️ Architected monorepo structure with Python FastAPI backend and Next.js frontend for scalable LLM orchestration
+- ⚡ Implemented asynchronous RESTful APIs for high-performance multi-model inference
+- 🎨 Developed responsive React components with TypeScript for type-safe, maintainable frontend
+- 🐳 Containerized services with Docker and established CI/CD pipelines for automated deployment
+- 🗄️ Designed PostgreSQL database schema following modern SaaS architecture patterns
+
+### 📊 **Project Management Platform**
+> Enterprise-grade task management system with real-time collaboration and scrum workflows
+
+**Tech Stack:** Next.js, React, Node.js, PostgreSQL, TypeScript, Redux, Tailwind CSS
+
+- 📈 Built scrum-based dashboards with server-side rendering for optimal performance
+- 🔄 Implemented Redux state management with efficient caching, reducing task retrieval latency by 35%
+- 🎯 Designed accessible UI components following WCAG standards, improving task navigation by 30%
+- 🔐 Developed secure RESTful APIs with Node.js/Express.js for scalable team collaboration
+- ⚡ Optimized application performance through code splitting and lazy loading
+
+### 🍎 **Apple Website Clone**
+> High-fidelity responsive interface showcasing advanced frontend engineering and 3D web graphics
+
+**Tech Stack:** React, JavaScript, GSAP, Three.js, Tailwind CSS
+
+- 🎬 Created complex animations and 3D visualizations using GSAP timelines and Three.js rendering
+- 🚀 Optimized rendering pipelines reducing frame drops by 35% across all devices
+- 💯 Achieved 100% Lighthouse performance score through asset optimization and best practices
+- 🎨 Implemented smooth scrolling interactions demonstrating advanced CSS and JavaScript techniques
+
+---
+
+## 💼 Technical Highlights
+
+- **Full-Stack Architecture:** Designed and deployed production-ready applications with React, Next.js, Node.js, and Python
+- **Performance Optimization:** Reduced application latency by 35% through efficient state management and caching strategies
+- **API Development:** Built secure, scalable RESTful APIs handling concurrent requests with PostgreSQL and MongoDB
+- **DevOps Practice:** Implemented CI/CD pipelines with Docker containerization for automated testing and deployment
+- **UI/UX Excellence:** Developed accessible, responsive interfaces following modern design principles and WCAG standards
+
+---
 
 ## 🎓 Certifications
-- **Data Analytics and Visualization** - Accenture North America
-- **Machine Learning Fundamentals** - Stanford University
 
-## 🌟 Featured Projects
-
-### 💬 **OtterChat**
-> A dynamic full-stack chat platform enabling real-time messaging for multiple users.
-
-**Tech Stack**: React, Next.js, PostgreSQL, Prisma, Node.js, Socket.io, NextAuth.js 
-- 🔌 Integrated Socket.io for features like user presence tracking and typing.
-- 🗄️ Designed an efficient database schema with PostgreSQL and Prisma for low latency and concurrent messages.
-- 🔐 Implemented a secure and seamless user authentication system using NextAuth.js.
-- 🚀 Developed responsive frontend components with React and Next.js, improving UI load times by 40%.
-
-### 📊 **Planora**
-> A comprehensive company website for project management, streamlining task allocation for over 50 team members.
-
-**Tech Stack**: Next.js, React, Redux, Node.js, Express.js, PostgreSQL, TypeScript, RESTful APIs
-- 📈 Implemented a scrum-based dashboard using React and TypeScript.
-- ⚡ Used Redux for efficient caching to support real-time updates for project tasks
-- 🎨 Created intuitive frontend components that reduced task navigation time by 30%.
-- 💨 Implemented server-side rendering (SSR) with Next.js for enhanced performance.
-
-### 🤖 [Machine Learning Projects](https://github.com/deepanshu-yadav/machine-learning-projects)
-> Collection of AI/ML implementations and experiments
-
-**Tech Stack**: Python, TensorFlow, Scikit-learn, Pandas
-- 🧠 Implemented ML algorithms for computer vision and NLP tasks
-- 📈 Performed data analysis and visualization for model insights
-- 🔍 Optimized models for accuracy and performance
-
-## 🏆 Technical Achievements
-
-- 🛠️ Built scalable **RESTful APIs** using Node.js and Express.js, handling high-volume requests with optimized MongoDB queries.
-- 🔒 Implemented **JWT and OAuth** authentication systems for secure user management in React applications.
-- 🎨 Developed responsive **React components** with Next.js SSR/SSG optimization for enhanced user experience.
-
-## 💡 Entrepreneurial Experience
-
-- 🚀 Independently conceptualized and built multiple full-stack applications from ideation to deployment
-- 🧠 Demonstrated entrepreneurial mindset by identifying user problems and developing technical solutions
-- ⚡ Managed complete development lifecycle in a fast-paced, self-motivated environment
-- 📚 Proactively learned new technologies to meet project requirements
-
-## 🎯 Current Focus
-
-```javascript
-const deepanshu = {
-  currentlyLearning: ["AWS Cloud Services", "Docker", "Microservices"],
-  lookingFor: "Software Development Internship Opportunities",
-  askMeAbout: ["Full Stack Development", "MERN Stack", "AI/ML"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+- **Data Analytics and Visualization** — Accenture North America
+- **Machine Learning Fundamentals** — Stanford University
 
 
-## 🎯 Current Focus
 
-```javascript
-const deepanshu = {
-  currentlyLearning: ["AWS Cloud Services", "Docker", "Microservices"],
-  lookingFor: "Software Development Internship Opportunities",
-  askMeAbout: ["Full Stack Development", "MERN Stack", "AI/ML"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+## 📫 Let's Connect
+
+I'm actively seeking **Software Development Internship** opportunities where I can contribute to building scalable, impactful products. Open to discussing full-stack development, cloud architecture, and AI/ML integration.
+
+- 📧 Email: dy02082003@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/deepanshuyadav100x](https://linkedin.com/in/deepanshuyadav100x)
+- 📱 Phone: 829-930-4157
+
+---
+
+<p align="center">
+  <i>"Building scalable solutions, one commit at a time."</i>
+</p>
