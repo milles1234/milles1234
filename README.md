@@ -8,9 +8,8 @@
 
 I'm a **Computer Science student specializing in Artificial Intelligence** (Expected 2026, CGPA: 8.5/10) with a strong focus on building production-ready full-stack applications. I architect scalable solutions using modern web technologies and cloud infrastructure.
 
-- 🔭 Currently building a **Multi-LLM SaaS Platform** with Python, FastAPI, and Next.js
 - 🌱 Deepening expertise in **AWS Cloud Services**, **Docker containerization**, and **Microservices architecture**
-- 💼 Seeking **Software Development Internship** opportunities to solve complex engineering challenges
+- 💼 Seeking **Software Development Internship or Fresher Job Roles** opportunities to solve complex engineering challenges
 - 📍 Lucknow, India
 - 📧 dy02082003@gmail.com | [LinkedIn](https://linkedin.com/in/deepanshuyadav100x) | [GitHub](https://github.com/milles1234)
 
@@ -52,16 +51,17 @@ I'm a **Computer Science student specializing in Artificial Intelligence** (Expe
 
 ## 🚀 Featured Projects
 
-### 🤖 **Multi-LLM SaaS Platform** *(In Progress)*
-> Full-stack AI-powered platform orchestrating multiple Large Language Models with enterprise-grade architecture
+### 🦀 **RustDetector (AI-Based Detection Platform)**
 
-**Tech Stack:** Python, FastAPI, TypeScript, React, Next.js, PostgreSQL, Docker
+> AI-powered industrial rust detection using computer vision
 
-- 🏗️ Architected monorepo structure with Python FastAPI backend and Next.js frontend for scalable LLM orchestration
-- ⚡ Implemented asynchronous RESTful APIs for high-performance multi-model inference
-- 🎨 Developed responsive React components with TypeScript for type-safe, maintainable frontend
-- 🐳 Containerized services with Docker and established CI/CD pipelines for automated deployment
-- 🗄️ Designed PostgreSQL database schema following modern SaaS architecture patterns
+**Tech:** React, FastAPI, Python, YOLO, ONNX, Docker
+
+Collaborated on a full-stack AI application for rust detection from images
+Integrated YOLO-based ONNX models for real-time inference
+Built FastAPI backend with optimized REST APIs
+Developed secure frontend with Clerk authentication
+Containerized system using Docker for reproducible deployments
 
 ### 📊 **Project Management Platform**
 > Enterprise-grade task management system with real-time collaboration and scrum workflows
